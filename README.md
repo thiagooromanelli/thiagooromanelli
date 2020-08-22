@@ -24,10 +24,12 @@
 [<img width="46px" alt="react" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/react.svg">](https://pt-br.reactjs.org)&nbsp;
 <img width="36px" alt="C" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/c.png">&nbsp;
 <img width="36px" alt="dotnetcore" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/dotnetcore.png">&nbsp;
+<img width="36px" alt="docker" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/docker.png">&nbsp;
 
 ### **Currently Learning**
 
 [<img width="36px" alt="NodeJs" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/nodejs.svg">](https://nodejs.org/en/)&nbsp;
+<img width="36px" alt="kubernetes" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/kubernetes.png">&nbsp;
 
 ### **Favourite Tools/Extensions/Dependencies**
 
@@ -39,6 +41,8 @@
 ### **Operational Systems**
 <img width="36px" alt="Linux" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/linux.svg">&nbsp;
 <img width="36px" alt="Windows" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/windows.svg">&nbsp;
+
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagooromanelli)](https://github.com/anuraghazra/github-readme-stats)
 
