@@ -18,13 +18,12 @@
 
 ### **Languages/Frameworks**
 [<img width="36px" alt="Python" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/python.svg">](https://www.python.org)&nbsp;
-<img width="36px" alt="javascript" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/js.svg">&nbsp;
+<img width="36px" alt="javascript" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/js.png">&nbsp;
 <img width="36px" alt="html" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/css3.svg">&nbsp;
-<img width="36px" alt="javascript" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/javascript.svg">&nbsp;
 [<img width="46px" alt="react" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/react.svg">](https://pt-br.reactjs.org)&nbsp;
 <img width="36px" alt="C" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/c.png">&nbsp;
-<img width="36px" alt="dotnetcore" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/dotnetcore.svg">&nbsp;
+<img width="36px" alt="dotnetcore" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/dotnetcore.png">&nbsp;
 
 ### **Currently Learning**
 
@@ -33,9 +32,9 @@
 ### **Favourite Tools/Extensions/Dependencies**
 
 [<img width="36px" alt="VSCode" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/vscode.svg">](https://code.visualstudio.com)&nbsp;
-<img width="36px" alt="pycharm" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/pycharm.svg">&nbsp;
+<img width="36px" alt="pycharm" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/pycharm.png">&nbsp;
 [<img width="36px" alt="Postman" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/postman.png">](https://www.postman.com)&nbsp;
-<img width="36px" alt="visualstudio" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/visualstudio.svg">&nbsp;
+<img width="36px" alt="visualstudio" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/visualstudio.png">&nbsp;
 
 ### **Operational Systems**
 <img width="36px" alt="Linux" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/linux.svg">&nbsp;
