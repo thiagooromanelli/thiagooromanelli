@@ -35,7 +35,7 @@
 [<img width="36px" alt="VSCode" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/vscode.svg">](https://code.visualstudio.com)&nbsp;
 <img width="36px" alt="pycharm" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/pycharm.svg">&nbsp;
 [<img width="36px" alt="Postman" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/postman.png">](https://www.postman.com)&nbsp;
-<img width="36px" alt="visualstudio" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/visualstudio.svg">&nbsp;
+<img width="36px" alt="visualstudio" src="./assets/images/visualstudio.svg">&nbsp;
 
 ### **Operational Systems**
 <img width="36px" alt="Linux" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/linux.svg">&nbsp;
