@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Thiago Romanelli
+
+---
+
+## About me
+:books: Bachelor degree in Electrical Engineering - Electronic enphasis
+        MBA in Software Engineering
+
+:computer: Currently working as Software Engineer - backend
+
+:bulb: Passionate about technology and development
+
+:video_game: Gamer as a hobby
 
 <!--
 **thiagooromanelli/thiagooromanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
