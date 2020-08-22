@@ -17,11 +17,11 @@
 ## 👨‍💻️ **Technologies** 
 
 ### **Languages/Frameworks**
+[<img width="36px" alt="Python" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/python.svg">](https://www.python.org)&nbsp;
 <img width="36px" alt="html" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/html5.svg">&nbsp;
 <img width="36px" alt="css" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/css3.svg">&nbsp;
 <img width="36px" alt="javascript" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/javascript.svg">&nbsp;
 [<img width="46px" alt="react" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/react.svg">](https://pt-br.reactjs.org)&nbsp;
-[<img width="36px" alt="Python" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/python.svg">](https://www.python.org)&nbsp;
 <img width="36px" alt="C" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/c.png">&nbsp;
 
 ### **Currently Learning**
@@ -36,6 +36,8 @@
 ### **Operational Systems**
 <img width="36px" alt="Linux" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/linux.svg">&nbsp;
 <img width="36px" alt="Windows" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/windows.svg">&nbsp;
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thiagooromanelli)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thiagooromanelli/thiagooromanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
