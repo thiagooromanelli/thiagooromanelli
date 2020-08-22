@@ -24,7 +24,7 @@
 [<img width="46px" alt="react" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/react.svg">](https://pt-br.reactjs.org)&nbsp;
 <img width="36px" alt="C" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/c.png">&nbsp;
 <img width="36px" alt="dotnetcore" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/dotnetcore.png">&nbsp;
-<img width="36px" alt="docker" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/docker.png">&nbsp;
+<img width="36px" alt="docker" src="https://github.com/thiagooromanelli/thiagooromanelli/blob/master/assets/images/docker2.png">&nbsp;
 
 ### **Currently Learning**
 
