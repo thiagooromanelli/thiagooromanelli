@@ -3,7 +3,7 @@
 ---
 
 ## About me
-:books: Bachelor degree in Electrical Engineering - emphasis on Electronic | MBA in Software Engineering
+:books: Bachelor degree in Electrical Engineering - emphasis on Electronics | MBA in Software Engineering
 
 :computer: Currently working as Software Engineer - backend
 
